@@ -24,8 +24,7 @@ In this lab you will create a Continuous Integration pipeline for the **actions*
 - A GitHub account with access to the Actions tab
 
 ---
-
-## Project Structure
+![Screenshot](screenshots/img.png)
 
 ```
 actions/
