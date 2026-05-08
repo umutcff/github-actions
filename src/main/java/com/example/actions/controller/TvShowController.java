@@ -13,7 +13,7 @@ import java.util.List;
 public class TvShowController {
 
 
-    private final TvShowService tvShowServicesdgsdg;
+    private final TvShowService tvShowService;
 
     public TvShowController(TvShowService tvShowService) {
         this.tvShowService = tvShowService;
